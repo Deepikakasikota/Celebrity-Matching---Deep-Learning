@@ -7,4 +7,14 @@ In this project I use Transfer learning model(resnet50) to train the data.
 The dataset which I used in this project is avaliable in the kaggale website.
 The link is: [ https://www.kaggle.com/datasets/sushilyadav1998/bollywood-celeb-localized-face-dataset]
 
+## Deployment:
+
+Deployment is done using Streamlite.
+
+- If you were run the code firstly colne your repository.
+
+- Download all the zip files and unzip it on your local system.
+
+- Run the code.
+
 
